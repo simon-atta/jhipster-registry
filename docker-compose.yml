@@ -1,0 +1,6 @@
+version: "2"
+services:
+  early-breakfast-registry:
+    extends:
+      file: early-breakfast-registry.yml
+      service: early-breakfast-registry
