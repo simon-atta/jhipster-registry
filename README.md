@@ -1,2 +1,2 @@
-# JHIPSTER Registry server
+# Jhipster Registry server
 
